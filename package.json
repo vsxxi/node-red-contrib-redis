@@ -15,7 +15,7 @@
     "node-red",
     "node"
   ],
-  "node-red": {
+  "node-red--": {
     "nodes": {
       "redis": "redis.js"
     }
