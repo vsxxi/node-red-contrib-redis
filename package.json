@@ -1,6 +1,6 @@
 {
   "name": "node-red-contrib-redis",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "description": "Node Red client for Redis with pub/sub, list, lua scripting  and other commands support.",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chameleonbr/node-red-contrib-redis.git"
+    "url": "git+https://github.com/vsxxi/node-red-contrib-redis.git"
   },
   "keywords": [
     "redis",
