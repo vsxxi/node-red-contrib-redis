@@ -1,5 +1,5 @@
 {
-  "name": "node-red-contrib-redis",
+  "name": "node-red-contrib-redis-streams",
   "version": "1.4.1",
   "description": "Node Red client for Redis with pub/sub, list, lua scripting  and other commands support.",
   "main": "index.js",
